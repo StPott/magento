@@ -1,0 +1,4 @@
+pott/app/code/local/Emzee/ExampleExtension app/code/local/Emzee/ExampleExtension
+pott/app/design/frontend/base/default/layout/emzee_exampleextension app/design/frontend/base/default/layout/emzee_exampleextension
+pott/app/etc/modules/Emzee_ExampleExtension.xml app/etc/modules/Emzee_ExampleExtension.xml
+pott/app/locale/* app/locale
