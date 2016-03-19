@@ -17,8 +17,7 @@ env:
   - MAGENTO_VERSION=magento-ce-1.8.1.0
   - MAGENTO_VERSION=magento-ce-1.8.0.0
   - MAGENTO_VERSION=magento-ce-1.7.0.2
-script:
-  - setup.sh
+install: ./setup.sh
 notifications:
   email:
     recipients:
