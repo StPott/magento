@@ -1,0 +1,20 @@
+{
+  "minimum-stability": "dev",
+  "require": {
+    "ecomdev/ecomdev_phpunit": "dev-dev",
+    "aoepeople/composer-installers": "*"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.firegento.com"
+    },
+    {
+      "type": "composer",
+      "url": "https://packages.magento.com"
+    }
+  ]
+}
