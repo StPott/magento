@@ -21,7 +21,7 @@ env:
   - MAGENTO_VERSION=magento-ce-1.5.0.0
   - MAGENTO_VERSION=magento-ce-1.4.0.1
 script:
-  - curl -sSL https://raw.githubusercontent.com/schmengler/MageTestStand/master/setup.sh | bash
+  - curl -sSL https://raw.githubusercontent.com/ffuenf/MageTestStand/master/setup.sh | bash
 notifications:
   email:
     recipients:
